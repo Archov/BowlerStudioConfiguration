@@ -1,9 +1,15 @@
 {
+  "workspace": {
+    "none": [
+      "Project none",
+      "1695760616463"
+    ]
+  },
   "studio-open-web": {},
-  "BowlerStudioConfigs": {
-    "fontsize": 12.0,
-    "skinBranch": "0.25.2",
-    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
+  "studio-open-git": {
+    "none:D:\\OneDrive\\Documents\\Slicer\\sCAD\\FacePegsWithLabels.scad": [
+      "none",
+      "D:\\OneDrive\\Documents\\Slicer\\sCAD\\FacePegsWithLabels.scad"
+    ]
   }
 }
